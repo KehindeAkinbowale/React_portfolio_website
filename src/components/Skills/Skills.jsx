@@ -1,7 +1,7 @@
 import React from 'react'
 import DataAnalyst from './DataAnalyst'
 import PowerBI from './PowerBI'
-import './skills.css'
+import './Skills.css'
 
 const Skills = () => {
   return (
