@@ -1,6 +1,6 @@
 import  Work1 from '../../assets/Excel.jpg'
 import  Work2 from '../../assets/PowerBI.jpg'
-import  Work3 from '../../assets/SQL.Webp'
+import  Work3 from '../../assets/SQL.webp'
 import  Work4 from '../../assets/Dashboard.jpg'
 import  Work5 from '../../assets/Tableu.avif'
 
