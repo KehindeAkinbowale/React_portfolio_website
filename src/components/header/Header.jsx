@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
-import './header.css'
+import './Header.css'
 
 
 const Header = () => {
